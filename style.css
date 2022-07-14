@@ -50,11 +50,13 @@ body {
 .summary {
     text-align: center;
     font-size: 15px;
+    color: rgb(193, 151, 151);
+
 }
 
 .first-amount {
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: white;
     background-color: rgb(203, 191, 191);
     border-radius: 5px;
@@ -63,16 +65,16 @@ body {
 .second-amount {
 
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: white;
     background-color: rgb(224, 77, 77);
     border-radius: 5px;
-    border: 2px;
+
 }
 
 .third-amount {
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: white;
     background-color: rgb(203, 191, 191);
     border-radius: 5px;
@@ -80,7 +82,7 @@ body {
 
 .fourth-amount {
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: white;
     background-color: rgb(203, 191, 191);
     border-radius: 5px;
@@ -88,7 +90,7 @@ body {
 
 .fifth-amount {
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 20px 30px;
     color: white;
     background-color: rgb(203, 191, 191);
     border-radius: 5px;
@@ -96,4 +98,185 @@ body {
 
 .amount {
     text-align: center;
+    padding-top: 2%;
+}
+
+#normal-shape {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 4%;
+    color: rgba(61, 59, 59, 0.824);
+}
+
+.submit {
+    padding-top: 1%;
+    padding-left: 45%;
+}
+
+.link {
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+.heading {
+    text-align: center;
+    font-size: 35px;
+    color: black;
+    padding-top: 5%;
+}
+
+.suggetion {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(181, 139, 139);
+}
+
+.healthy {
+    display: flex;
+    padding-left: 2%;
+    padding-top: 2%;
+
+}
+
+.foods {
+    background-color: rgb(117, 134, 134);
+    height: 280px;
+    width: 400px;
+}
+
+.middle {
+    padding-top: 5%;
+    padding-left: 18px;
+}
+
+.icon {
+    height: 40px;
+    width: 40px;
+    padding-left: 6%;
+    padding-top: 8%;
+}
+
+.defination {
+    text-align: justify;
+    padding-left: 6%;
+    font-size: 18px;
+}
+
+.family {
+    background-color: rgba(157, 210, 168, 0.429);
+    height: 280px;
+    width: 400px;
+}
+
+.shelter {
+    height: 40px;
+    width: 30px;
+    padding-left: 6%;
+    padding-top: 6%;
+}
+
+.shelters-family {
+    padding-top: 5%;
+    padding-left: 18px;
+}
+
+.poem {
+    text-align: justify;
+    padding-left: 6%;
+}
+
+.child {
+    background-color: rgba(22, 148, 106, 0.429);
+    height: 280px;
+    width: 400px;
+}
+
+.images {
+    height: 40px;
+    width: 30px;
+    padding-left: 6%;
+    padding-top: 6%;
+}
+
+.Education-chid {
+    text-align: justify;
+    padding-left: 8%;
+}
+
+.last {
+    text-align: justify;
+    padding-left: 8%;
+}
+
+.About-me {
+    background-color: aquamarine;
+    height: 300px;
+}
+
+.jam {
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    padding-top: 2%;
+}
+
+.links {
+    text-decoration: none;
+    background-color: red;
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+
+.heads {
+    text-align: center;
+    font-size: 45px;
+    color: black;
+    padding-top: 5%;
+}
+
+.finishing {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+.click {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    height: 150px;
+    width: 400px;
+    border-right: 50px;
+    border-right: 50%;
+}
+
+.black {
+    background-color: black;
+    height: 150px;
+    width: 100%;
+}
+
+.end {
+    background-color: azure;
+
+    .big {
+        text-align: center;
+        font-size: 28px;
+        color: red;
+        padding-top: 2%;
+    }
+
+    .lasted {
+        text-align: center;
+        font-size: 17px;
+        color: white;
+    }
 }
