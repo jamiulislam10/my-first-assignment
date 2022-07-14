@@ -1,0 +1,99 @@
+body {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.image {
+    background-image: url(donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 550px;
+
+}
+
+.highlight {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    color: rgba(112, 11, 11, 0.724);
+    text-align: center;
+    padding-top: 10%;
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    text-align: center;
+    font-optical-sizing: 20px;
+    color: brown;
+}
+
+.link-batton {
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+.batton {
+    padding-left: 45%;
+    padding-top: 5%;
+}
+
+.header {
+    text-align: center;
+    padding-top: 5%;
+    font-size: 40px;
+}
+
+.summary {
+    text-align: center;
+    font-size: 15px;
+}
+
+.first-amount {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(203, 191, 191);
+    border-radius: 5px;
+}
+
+.second-amount {
+
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(224, 77, 77);
+    border-radius: 5px;
+    border: 2px;
+}
+
+.third-amount {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(203, 191, 191);
+    border-radius: 5px;
+}
+
+.fourth-amount {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(203, 191, 191);
+    border-radius: 5px;
+}
+
+.fifth-amount {
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+    background-color: rgb(203, 191, 191);
+    border-radius: 5px;
+}
+
+.amount {
+    text-align: center;
+}
