@@ -14,18 +14,18 @@ body {
 
 .highlight {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 40px;
-    color: rgba(112, 11, 11, 0.724);
+    font-size: 60px;
+    color: rgba(238, 9, 9, 0.9);
     text-align: center;
     padding-top: 10%;
 }
 
 .text {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     font-optical-sizing: 20px;
-    color: brown;
+    color: rgba(232, 237, 231, 0.932);
 }
 
 .link-batton {
@@ -247,6 +247,33 @@ body {
     padding-left: 2%;
 }
 
+.last1 {
+    border: 950%;
+    height: 250%;
+    width: 800px;
+    padding-left: 35%;
+    color: aqua;
+    background-size: 400%;
+}
+
+.clicks {
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 10px;
+    color: white;
+    border-radius: 1px;
+    border: none;
+}
+
+.input {
+    text-decoration: none;
+    background-color: rgb(196, 168, 117);
+    padding: 15px 100px;
+    color: white;
+    border-radius: 1px;
+    border: none;
+}
+
 .click {
     display: flex;
     justify-content: center;
@@ -258,25 +285,22 @@ body {
     border-right: 50%;
 }
 
-.black {
-    background-color: black;
-    height: 150px;
-    width: 100%;
+.small {
+    text-align: center;
+    font-size: 18px;
+    color: antiquewhite;
+}
+
+.big {
+    text-align: center;
+    font-size: 28px;
+    font-style: inherit;
+    color: red;
+    padding-top: 4%;
 }
 
 .end {
-    background-color: azure;
-
-    .big {
-        text-align: center;
-        font-size: 28px;
-        color: red;
-        padding-top: 2%;
-    }
-
-    .lasted {
-        text-align: center;
-        font-size: 17px;
-        color: white;
-    }
+    background-color: rgb(11, 11, 11);
+    height: 150px;
+    width: 100%;
 }
